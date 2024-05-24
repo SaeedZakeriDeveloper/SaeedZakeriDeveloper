@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saeedzakerideveloper" alt="saeedzakerideveloper" /></a> </p>
 
-- 🔭 I’m currently working as an Angular developer at ZakeriSupplyChain **Financial Angular web application**
+- 🔭 I’m currently Developing a financial Angular web application for a laboratory equipment sales company**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
