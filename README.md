@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saeed</h1>
-<h3 align="center">An Angular developer from Canada</h3>
+<h3 align="center">A front-end developer from Canada</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saeedzakerideveloper&label=Profile%20views&color=0e75b6&style=flat" alt="saeedzakerideveloper" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saeedzakerideveloper" alt="saeedzakerideveloper" /></a> </p>
-
-- 🔭 I’m currently developing a financial Angular web application for a laboratory equipment sales company.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
